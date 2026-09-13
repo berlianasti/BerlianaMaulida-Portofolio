@@ -13,7 +13,7 @@ This repository serves as a portfolio to showcase my projects, analytical skills
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 **Global Layoffs Data Cleaning**
-Code:
+Code: [Layoffs Data Analysis.sql](https://github.com/berlianasti/BerlianaMaulida-Portofolio/blob/main/Layoffs%20Data%20Analysis.sql)
 Description: The dataset contains information on company layoffs across different industries and countries. This project includes the following steps: data cleaning, data preprocessing, and exploratory data analysis.
 Skill: DML (Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language), Data Cleaning, Exploratory Data Analysis (EDA), CTEs
 Technology: MySQL
