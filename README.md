@@ -22,7 +22,7 @@ Skill: DML (Data Manipulation Language), DQL (Data Query Language), DDL (Data De
 
 Technology: MySQL
 
-** Car Showroom Sales **
+**Car Showroom Sales**
 
 Code: [Car Showroom Sales.sql]
 
