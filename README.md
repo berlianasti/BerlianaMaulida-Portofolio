@@ -22,11 +22,11 @@ Skill: DML (Data Manipulation Language), DQL (Data Query Language), DDL (Data De
 
 Technology: MySQL
 
-**Car Showroom Sales**
+**Automotive Sales**
 
 Code: [Car Showroom Sales.sql](https://github.com/berlianasti/BerlianaMaulida-Portofolio/blob/main/Data%20Penjualan%20Showroom%20Mobil.sql)
 
-Visualization:
+Visualization: [Dashboard](https://github.com/berlianasti/BerlianaMaulida-Portofolio/blob/main/Automotive%20Sales%20Visualization.pbix)
 
 Description: Analyzed 10,000 automotive sales transactions to identify sales trends, branch performance, product performance, payment methods, transaction status, and trade-in activity.
 
