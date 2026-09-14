@@ -24,7 +24,7 @@ Technology: MySQL
 
 **Car Showroom Sales**
 
-Code: [Car Showroom Sales.sql]
+Code: [Car Showroom Sales.sql](https://github.com/berlianasti/BerlianaMaulida-Portofolio/blob/main/Data%20Penjualan%20Showroom%20Mobil.sql)
 
 Visualization:
 
