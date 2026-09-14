@@ -13,7 +13,23 @@ This repository serves as a portfolio to showcase my projects, analytical skills
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 **Global Layoffs Data Cleaning**
+
 Code: [Layoffs Data Analysis.sql](https://github.com/berlianasti/BerlianaMaulida-Portofolio/blob/main/Layoffs%20Data%20Analysis.sql)
+
 Description: The dataset contains information on company layoffs across different industries and countries. This project includes the following steps: data cleaning, data preprocessing, and exploratory data analysis.
+
 Skill: DML (Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language), Data Cleaning, Exploratory Data Analysis (EDA), CTEs
+
 Technology: MySQL
+
+** Car Showroom Sales **
+
+Code: [Car Showroom Sales.sql]
+
+Visualization:
+
+Description: Analyzed 10,000 automotive sales transactions to identify sales trends, branch performance, product performance, payment methods, transaction status, and trade-in activity.
+
+Skill: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Sales Analysis, KPI Analysis, Dashboard Development, Business Insights
+
+Technology: Microsoft Excel, SQL, Power BI, Power Query, DAX
